@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    align-items: center;
+    width: 70%;
+    max-width: 2000px;
+    margin: 20px auto;
+    border-radius: 20px;
+    background: linear-gradient(to top, #fff1fc, #ffcae7);
+    border: 1px solid rgb(255, 216, 216);
+    width: 1500px;
+    height: 1000px;
+    color: rgb(152, 123, 255);
+}
+h2 {
+    display: flex;
+    justify-content: space-around;
+}
